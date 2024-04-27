@@ -1,3 +1,4 @@
 i# GitHubDemo
 Demo of commands (branches, pull, push,commit, add, etc)
-I am updating for dev branch! 
+Amanullah is updating for dev branch! 
+
